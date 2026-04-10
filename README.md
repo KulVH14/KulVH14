@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently a 4th-semester Software Engineering student at **FPT University**.
+- 🎓 Currently a 3th-semester Software Engineering student at **FPT University**.
 - 📐 Background in Mathematics (5+ years of tutoring and Olympiad experience).
 - 🛠️ Currently building projects with **Java, Python**.
 - 🥅 Future goals: Pursue a Master abroad and become a university lecturer.
