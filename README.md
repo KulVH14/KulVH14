@@ -9,7 +9,7 @@
 - 📐 Background in Mathematics (5+ years of tutoring and Olympiad experience).
 - 🛠️ Currently building projects with **Java, Python**.
 - 🥅 Future goals: Pursue a Master abroad and become a university lecturer.
-- 📫 Reach me at: **ph.dquanvu1410@gmail.com**
+
 
 ---
 
