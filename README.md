@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Quan (KulVH) 🚀
 
-**Software Engineering Student @ FPT Universityt**
+**Software Engineering Student @ FPT University**
 
 
 ### 👨‍💻 About Me
